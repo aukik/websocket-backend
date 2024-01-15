@@ -1,0 +1,14 @@
+/backend/node_modules
+/frontend/node_modules
+
+*.env
+*.log
+**/__pycache__
+*.egg-info/
+*.egg
+pip-log.txt
+*.caches
+
+launch.json
+.vscode
+.idea
